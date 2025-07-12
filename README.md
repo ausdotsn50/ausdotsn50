@@ -18,7 +18,7 @@
 </p>
 
 <!--- Github stats -->
-<table align="center" border="none">
+<table align="center" style="border: none">
 <tr border="none">
 
 <!-- Table data 1 -->
