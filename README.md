@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on building an application to help manage sales for water station businesses
 - 🌱 I’m currently learning on how to build a full stack mobile application with React Native & Expo
 - 📫 How to reach me: ausdotsn50@gmail.com
-- 👩🏻‍💻 Check out my Homepage: [ausdotsn50.dev](https://ausdotsn50.dev)
+- 🏠 Check out my Homepage: [ausdotsn50.dev](https://ausdotsn50.dev)
 
 <!-- Current Development Interests -->
 <h2 align="center">Current Development Interests</h2>
