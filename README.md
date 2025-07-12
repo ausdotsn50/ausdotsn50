@@ -1,4 +1,5 @@
-## Hi there 👋
+<h1 align="center">ausdotsn50</h1>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=ausdotsn50&style=plastic&color=red" alt="profile views" /> </p>
 
 <!--
 **ausdotsn50/ausdotsn50** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
