@@ -21,16 +21,12 @@
 <table align="center" style="border: none">
 <tr style="border: none">
 
-<!-- Table data 1 -->
-<td width="50%" align="center" style="border: none">  
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=ausdotsn50&theme=dark&show_icons=true&count_private=true" />
-  <br></br>
+<td width="50%" align="center">  
   <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ausdotsn50&theme=dark&hide_border=false" /> 
 </td>
 
-<!-- Table data 2 -->
-<td width="50%" align="center" style="border: none">
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=ausdotsn50&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+<td width="50%" align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ausdotsn50&layout=compact&theme=dark" />
 </td>
 
 </tr>
