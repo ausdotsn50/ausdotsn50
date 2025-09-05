@@ -1,7 +1,7 @@
 <h1 align="center">ausdotsn50 👩🏻‍💻</h1>
 
 - 🔭 I’m currently contributing to [Project AiGRI](https://github.com/ProjectAiGRI): Leveraging drone data and AI to make agricultural insurance more efficient and accessible for smallholder farmers
-- 🌱 I’m currently learning on how to leverage open-source Python libraries for [Project AiGRI](https://github.com/ProjectAiGRI)
+- 🌱 I’m currently learning on how to leverage different open-source Python libraries for [Project AiGRI](https://github.com/ProjectAiGRI)
 - 📫 How to reach me: ausdotsn50@gmail.com
 - 🏠 Check out my Homepage: [ausdotsn50.dev](https://ausdotsn50.dev)
 
