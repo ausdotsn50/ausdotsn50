@@ -22,7 +22,7 @@
 <tr style="border: none">
 
 <td width="40%" align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ausdotsn50&layout=compact&theme=dark" />
+    <img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=ausdotsn50&layout=compact&theme=dark](https://github-readme-stats.vercel.app/api/top-langs/?username=ausdotsn50&layout=compact&theme=dark)" />
 </td>
 
 <td width="60%" align="center">  
