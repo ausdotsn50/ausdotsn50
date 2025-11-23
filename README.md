@@ -21,11 +21,11 @@
 <table align="center" style="border: none">
 <tr style="border: none">
 
-<td width="40%" align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ausdotsn50&layout=compact&theme=dark&v=2" />
+<td width="50%" align="center">
+    <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-stats.vercel.app/api?username=ausdotsn50&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/ausdotsn50/github-readme-stats#gh-dark-mode-only" /> 
 </td>
 
-<td width="60%" align="center">  
+<td width="50%" align="center">  
   <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ausdotsn50&theme=dark&hide_border=false" /> 
 </td>
 
@@ -36,3 +36,6 @@
 <p align="center">
     <img src="https://komarev.com/ghpvc/?username=ausdotsn50&style=plastic&color=red" alt="profile views"/>
 </p>
+
+
+
