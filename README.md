@@ -32,10 +32,4 @@
 </tr>
 </table>
 
-<!-- Profile views -->
-<p align="center">
-    <img src="https://komarev.com/ghpvc/?username=ausdotsn50&style=plastic&color=red" alt="profile views"/>
-</p>
-
-
 
