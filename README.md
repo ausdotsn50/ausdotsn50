@@ -1,7 +1,7 @@
 <h1 align="center">ausdotsn50 👩🏻‍💻</h1>
 
-- 🔭 I’m currently working...
-- 🌱 I’m currently learning about web scraping techniques in Python
+- 🔭 I’m currently updating my CS50x final project: [Alzar](https://github.com/ausdotsn50/alzar)
+- 🌱 I’m currently learning more about Expo
 - 📫 How to reach me: ausdotsn50@gmail.com
 - 🏠 Check out my Homepage: [ausdotsn50.dev](https://ausdotsn50.dev)
 
