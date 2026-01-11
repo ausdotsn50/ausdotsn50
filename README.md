@@ -1,9 +1,10 @@
 <h1 align="center">ausdotsn50 👩🏻‍💻</h1>
 
-- 🔭 I’m currently updating my CS50x final project: [Alzar](https://github.com/ausdotsn50/alzar)
-- 🌱 I’m currently learning more about Expo
+- 🔭 I’m currently brainstorming what to build for a full-stack web application with Next.JS
+- 🌱 I’m currently learning more about Next.JS
 - 📫 How to reach me: ausdotsn50@gmail.com
-- 🏠 Check out my Homepage: [ausdotsn50.dev](https://ausdotsn50.dev)
+- Homepage under maintenance!
+<!--- 🏠 Check out my Homepage: [ausdotsn50.dev](https://ausdotsn50.dev)-->
 
 <!-- Current Development Interests -->
 <h2 align="center">Current Development Interests</h2>
